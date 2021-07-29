@@ -1,2 +1,2 @@
 # BTC_FPGA_MINER
-BTC FPGA mining program based on Verilog and Python3
+BTC FPGA mining program with PC control program based on Verilog HDL and Python3
